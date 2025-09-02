@@ -4,7 +4,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="FLIPKART RECOMMENDER",
+    name="FLIPKART PRODUCT RECOMMENDER",
     version="1.0.0",
     author="Shivam Kumar Srivastava",
     packages=find_packages(),
